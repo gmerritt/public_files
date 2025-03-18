@@ -12,11 +12,11 @@ interface:
     externalUrl: "https://example.com/privacy"
     openNewTab: true
   termsOfService:
-    externalUrl: "mailto:riverflow@berkeley.edu"
+    externalUrl: "https://example.com/terms"
     openNewTab: true
     modalAcceptance: true
-    modalTitle: "Send feedback to Bill and Greg"
+    modalTitle: "Terms of Service"
     modalContent: |
-      # River
-      ## Early-alpha trial
-      You may send feedback to Bill and Greg at: riverflow@berkeley.edu
+      # Terms of Service
+      ## Introduction
+      Welcome to LibreChat!
