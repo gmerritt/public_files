@@ -18,5 +18,4 @@ interface:
     modalTitle: "Terms of Service"
     modalContent: |
       # Terms of Service
-      ## Introduction
-      Welcome to LibreChat!
+      ## This is a pre-release "alpha" version of the Berkeley AI Platform and does not support data privacy nor a specific data retention period. Your data will not reliably be persisted so please save chat histories you wish to preserve.
