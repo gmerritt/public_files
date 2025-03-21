@@ -8,7 +8,7 @@ version: 1.2.1
 cache: true
 
 interface:
-  customWelcome: "Welcome! Please send feedback to riverflow@berkeley.edu."
+  customWelcome: "Welcome! Please send feedback to <a href=\"mailto:riverflow@berkeley.edu\">riverflow@berkeley.edu</a>."
   privacyPolicy:
     externalUrl: "https://example.com/privacy"
     openNewTab: true
