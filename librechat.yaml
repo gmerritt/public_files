@@ -8,7 +8,7 @@ version: 1.2.1
 cache: true
 
 interface:
-  customWelcome: "UC Berkeley AI pilot / aiplatform-team@lists.berkeley.edu"
+  customWelcome: "Select provider and model from the menus above."
   privacyPolicy:
     externalUrl: "https://example.com/privacy"
     openNewTab: true
