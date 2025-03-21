@@ -8,6 +8,7 @@ version: 1.2.1
 cache: true
 
 interface:
+  customWelcome: "Welcome! Please send feedback to riverflow@berkeley.edu."
   privacyPolicy:
     externalUrl: "https://example.com/privacy"
     openNewTab: true
