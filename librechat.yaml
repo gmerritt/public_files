@@ -19,4 +19,4 @@ interface:
     modalTitle: "Terms of Service"
     modalContent: |
       # Terms of Service
-      ## Please revise: This is a pre-release "alpha" version of the Berkeley AI Platform for early development and testing and does not yet support data privacy nor a specific data retention period. Your data will not reliably be persisted so please save chat histories you wish to preserve. DO NOT ENTER SENSITIVE INFORMATION INTO THE SERVICE AT THIS TIME.
+      ## This is a pre-release "alpha" version of the Berkeley AI Platform for early development and testing and does not yet support data privacy nor a specific data retention period. Your data will not reliably be persisted so please save chat histories you wish to preserve. DO NOT ENTER SENSITIVE INFORMATION INTO THE SERVICE AT THIS TIME.
